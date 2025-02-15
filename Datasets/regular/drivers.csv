@@ -1,0 +1,6 @@
+id,nome,data_nascimento,genero,carro,matricula,classificacao_media
+D001,Pedro Almeida,1980-11-20,M,Toyota,AA-12-BB,4.9
+D002,Sofia Rocha,1975-06-30,F,Ford,CC-34-DD,4.7
+D003,Tiago Mendes,1988-09-14,M,BMW,EE-56-FF,4.8
+D004,Carla Vieira,1992-01-25,F,Mercedes,GG-78-HH,4.6
+D005,Miguel Lopes,1985-03-17,M,Audi,II-90-JJ,4.5
