@@ -103,7 +103,7 @@ int main(int argc, char const *argv[])
     {
         CLEAR;
 
-        printf("Introduza o caminho para os datasets (Exemplo: \"Datasets/regular/\"): ");
+        printf("Introduza o caminho para os datasets (Exemplo: \"../Datasets/regular/\"): ");
         scanf("%s", path);
 
         CLEAR;
