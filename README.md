@@ -27,10 +27,5 @@ $ ./programa
 
 --- 
 
-<h3 align="center"> 🎖️ Nota 🎖️ </h3>
+<h3 align="center"> 🎖️ Nota - 15 / 20 🎖️ </h3>
 
-<div align="center">
-
-15 / 20
-
-</div>
