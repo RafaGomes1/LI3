@@ -24,3 +24,13 @@ $ ./programa
 | [Lucas Oliveira](https://github.com/LucasOli20) | [Mike Pinto](https://github.com/mrmikept) | [Rafael Gomes](https://github.com/RafaGomes1) |
 
 </div>
+
+--- 
+
+<h3 align="center"> 🎖️ Nota 🎖️ </h3>
+
+<div align="center">
+
+15 / 20
+
+</div>
